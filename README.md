@@ -1,4 +1,4 @@
 #python-js
-pythonからjavascriptへの変換
+python → javascript
 
 ・02/09 : Trueのjsfileがterminalで作成できなかった.
